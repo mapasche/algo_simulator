@@ -1,0 +1,85 @@
+Action: buy 	 Total money: 1679914000.0000002 	 Date: 2022-12-22 22:57:03
+Total dolar: 9900 	 Total coin: 100000.006
+Wallet 0: 	 Dolar: 9900 	 Coin: 100000.006
+
+
+Action: buy 	 Total money: 1680307000.0233943 	 Date: 2022-12-22 23:37:05
+Total dolar: 9800 	 Total coin: 100000.0119
+Wallet 0: 	 Dolar: 9800 	 Coin: 100000.0119
+
+
+Action: buy 	 Total money: 1683065000.351708 	 Date: 2022-12-23 03:07:23
+Total dolar: 9700 	 Total coin: 100000.0178
+Wallet 0: 	 Dolar: 9700 	 Coin: 100000.0178
+
+
+Action: buy 	 Total money: 1684160000.5471177 	 Date: 2022-12-23 03:47:25
+Total dolar: 9600 	 Total coin: 100000.0238
+Wallet 0: 	 Dolar: 9600 	 Coin: 100000.0238
+
+
+Action: buy 	 Total money: 1683741000.4474657 	 Date: 2022-12-23 05:47:32
+Total dolar: 9500 	 Total coin: 100000.0297
+Wallet 0: 	 Dolar: 9500 	 Coin: 100000.0297
+
+
+Action: buy 	 Total money: 1684281000.6079671 	 Date: 2022-12-23 06:47:36
+Total dolar: 9400 	 Total coin: 100000.0357
+Wallet 0: 	 Dolar: 9400 	 Coin: 100000.0357
+
+
+Action: buy 	 Total money: 1685265000.95886 	 Date: 2022-12-23 09:27:47
+Total dolar: 9300 	 Total coin: 100000.0416
+Wallet 0: 	 Dolar: 9300 	 Coin: 100000.0416
+
+
+Action: buy 	 Total money: 1690758003.2435985 	 Date: 2022-12-23 10:47:53
+Total dolar: 9200 	 Total coin: 100000.0475
+Wallet 0: 	 Dolar: 9200 	 Coin: 100000.0475
+
+
+Action: sell 	 Total money: 1683177999.6424785 	 Date: 2022-12-23 13:48:05
+Total dolar: 9300.0 	 Total coin: 100000.0416
+Wallet 0: 	 Dolar: 9300.0 	 Coin: 100000.0416
+
+
+Action: buy 	 Total money: 1684768000.303394 	 Date: 2022-12-23 16:18:16
+Total dolar: 9200.0 	 Total coin: 100000.0475
+Wallet 0: 	 Dolar: 9200.0 	 Coin: 100000.0475
+
+
+Action: buy 	 Total money: 1685203000.51003 	 Date: 2022-12-24 04:29:07
+Total dolar: 9100.0 	 Total coin: 100000.0534
+Wallet 0: 	 Dolar: 9100.0 	 Coin: 100000.0534
+
+
+Action: buy 	 Total money: 1684226999.9884887 	 Date: 2022-12-24 18:20:04
+Total dolar: 9000.0 	 Total coin: 100000.0594
+Wallet 0: 	 Dolar: 9000.0 	 Coin: 100000.0594
+
+
+Action: sell 	 Total money: 1682927999.2172194 	 Date: 2022-12-24 20:30:14
+Total dolar: 9100.0 	 Total coin: 100000.0534
+Wallet 0: 	 Dolar: 9100.0 	 Coin: 100000.0534
+
+
+Action: sell 	 Total money: 1682422998.9473877 	 Date: 2022-12-25 04:20:48
+Total dolar: 9200.0 	 Total coin: 100000.0475
+Wallet 0: 	 Dolar: 9200.0 	 Coin: 100000.0475
+
+
+Action: sell 	 Total money: 1682708999.0832038 	 Date: 2022-12-25 07:31:00
+Total dolar: 9300.0 	 Total coin: 100000.0415
+Wallet 0: 	 Dolar: 9300.0 	 Coin: 100000.0415
+
+
+Action: sell 	 Total money: 1679489997.7458587 	 Date: 2022-12-25 12:51:21
+Total dolar: 9400.0 	 Total coin: 100000.0356
+Wallet 0: 	 Dolar: 9400.0 	 Coin: 100000.0356
+
+
+Action: sell 	 Total money: 1679859997.877546 	 Date: 2022-12-25 14:51:28
+Total dolar: 9500.0 	 Total coin: 100000.0296
+Wallet 0: 	 Dolar: 9500.0 	 Coin: 100000.0296
+
+

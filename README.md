@@ -1,2 +1,2 @@
-# algo_simulator
-Code that tries to simulate an algorithmic trading
+# investor_project
+Algorythm for simulating an algorithmic trading
